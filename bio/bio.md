@@ -1,12 +1,6 @@
 ---
-title: "Dennis Brookner"
-image: "DennisBrooknerHeadshot.jpg"
-links:
-  - LinkedIn: "https://www.linkedin.com/in/dennis-brookner/"
-  - GitHub: "https://github.com/dennisbrookner/"
-  - Email: "mailto:debrookner@gmail.com"
-output:
-  postcards::trestles
+title: Bio - Dennis Brookner
+layout: bio
 ---
  
 ## Bio
