@@ -1,6 +1,6 @@
 ---
 title: Bio - Dennis Brookner
-layout: bio
+layout: postcard
 ---
  
 ## Bio
