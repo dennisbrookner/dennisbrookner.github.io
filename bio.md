@@ -7,15 +7,17 @@ headshot: /assets/img/DennisBrooknerHeadshot.jpeg
 
 ## About Me
 
-I'm a third-year Ph.D. student in [Prof. Doeke Hekstra's lab](https://hekstralab.fas.harvard.edu) in the Harvard Department of Molecular & Cellular Biology. I'm interested in using X-ray crystallography to explore how protein structure and dynamics contribute to function. In my spare time, I can be found doing crossword puzzles or contributing to [Puntalytics](https://twitter.com/ThePuntRunts).
-
+I'm a third-year Ph.D. student in [Prof. Doeke Hekstra's lab](https://hekstralab.fas.harvard.edu) in the Harvard Department of Molecular & Cellular Biology. I'm interested in using X-ray crystallography to explore how protein structure and dynamics contribute to function. In my spare time, I can be found doing crossword puzzles or contributing to [Puntalytics](https://twitter.com/ThePuntRunts).  
+  
+---
+  
 ## Education
 
-**Harvard University** | Cambridge, MA
+**Harvard University** \| Cambridge, MA
 
 Ph.D. in Biochemistry (in progress) | 2019 - Present
 
-**Yale University** | New Haven, CT
+**Yale University** \| New Haven, CT
 
 B.S. in Molecular Biophysics & Biochemistry | 2015-2019
 
