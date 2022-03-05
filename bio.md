@@ -14,21 +14,21 @@ I'm a third-year Ph.D. student in [Prof. Doeke Hekstra's lab](https://hekstralab
 ## Education
 
 **Harvard University** \| Cambridge, MA
-
-Ph.D. in Biochemistry (in progress) | 2019 - Present
-
+Ph.D. in Biochemistry (in progress) \| 2019 - Present. 
+  
 **Yale University** \| New Haven, CT
-
-B.S. in Molecular Biophysics & Biochemistry | 2015-2019
-
+B.S. in Molecular Biophysics & Biochemistry \| 2015-2019  
+  
+---
+  
 ## Experience
 
-**Lab of Prof. Doeke Hekstra**, Harvard University | Graduate Researcher | 2019 - present
+**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - present
 
-**Lab of Prof. José María Delfino**, Universidad de Buenos Aires | Visiting Researcher | Summer 2019
+**Lab of Prof. José María Delfino**, Universidad de Buenos Aires \| Visiting Researcher \| Summer 2019
 
-**Lab of Prof. Patrick Loria**, Yale University | Undergraduate Researcher | 2018 - 2019
+**Lab of Prof. Patrick Loria**, Yale University \| Undergraduate Researcher \| 2018 - 2019
 
-**Merck & Co.** | Structural Science Intern | Summer 2017
+**Merck & Co.** \| Structural Science Intern \| Summer 2017
 
-**Lab of Prof. Craig Crews**, Yale University | Undergraduate Researcher | 2016 - 2017
+**Lab of Prof. Craig Crews**, Yale University \| Undergraduate Researcher \| 2016 - 2017
