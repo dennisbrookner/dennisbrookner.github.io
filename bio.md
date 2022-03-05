@@ -13,10 +13,10 @@ I'm a third-year Ph.D. student in [Prof. Doeke Hekstra's lab](https://hekstralab
   
 ## Education
 
-**Harvard University** \| Cambridge, MA
-Ph.D. in Biochemistry (in progress) \| 2019 - Present. 
+**Harvard University** \| Cambridge, MA  
+Ph.D. in Biochemistry (in progress) \| 2019 - Present
   
-**Yale University** \| New Haven, CT
+**Yale University** \| New Haven, CT  
 B.S. in Molecular Biophysics & Biochemistry \| 2015-2019  
   
 ---
