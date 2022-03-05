@@ -1,4 +1,6 @@
-links:
-  - LinkedIn: "https://www.linkedin.com/in/dennis-brookner/"
-  - GitHub: "https://github.com/dennisbrookner/"
-  - Email: "mailto:debrookner@gmail.com"
+- name: LinkedIn
+  link: "https://www.linkedin.com/in/dennis-brookner/"
+- name: Github
+  link: "https://github.com/dennisbrookner/"
+- name: Email
+  link: "mailto:debrookner@gmail.com"
