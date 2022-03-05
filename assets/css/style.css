@@ -140,14 +140,14 @@ sup{
 }
 
 a{
-  color:black;
+  color: #000000;
   font-weight: bold;
   text-decoration: none;
   background-color: transparent
 }
 
 a:hover{
-  color:black;
+  color: #000000;
   font-weight: bold;
   text-decoration: underline
 }
