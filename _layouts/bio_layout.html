@@ -48,7 +48,7 @@ layout: default
   </div>
 </div>
 
-<!-- Mobile, one-column version of layout --> 
+<!-- Mobile/Narrow Screen, one-column version of layout --> 
 
 <div class="container-flex min-vh-100 d-block d-lg-none d-xl-none">
   <div class="d-flex flex-row justify-content-center">
@@ -68,7 +68,7 @@ layout: default
                   
               {% for item in site.data.links %}
                 <a href="{{ item.link }}" >
-                  <button type="button" class="list-group-item list-group-item-action my-1 rounded">
+                  <button type="button" class="btn btn-vertical btn-outline-dark mb-2">
                     {{ item.name }}
                   </button>
                 </a>
