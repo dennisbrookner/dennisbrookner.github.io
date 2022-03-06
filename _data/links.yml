@@ -1,6 +1,6 @@
 - name: LinkedIn
   link: "https://www.linkedin.com/in/dennis-brookner/"
-- name: Github
+- name: <i class="fa fa-github"></i>
   link: "https://github.com/dennisbrookner/"
 - name: Email
   link: "mailto:debrookner@gmail.com"
