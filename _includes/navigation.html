@@ -1,5 +1,5 @@
 <div class="p-2">
-  <div id="icon-list">
+  <div>
     <ul class="list-inline">
       {% for item in site.data.navigation %}
         <li {% if page.url == item.link %}style="font-weight: bold;"{% endif %}>
@@ -14,7 +14,7 @@
     
     <div class="row justify-content-center align-items-center">
       <div class="col-8 p-1 text-center">
-        <div class="list-group">
+        <div>
               
           {% for item in site.data.links %}
             <a href="{{ item.link }}" >
