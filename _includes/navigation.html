@@ -2,8 +2,8 @@
   <div>
     <ul class="nav-outer">
       {% for item in site.data.navigation %}
-        <li class="nav-inner {% if page.url == item.link %} current-page {% endif %}">
-          <a class="a-no-underline" href="{{ item.link }}" >
+        <li>
+          <a class="nav-inner {% if page.url == item.link %} current-page {% endif %} a-no-underline" href="{{ item.link }}" >
             {{ item.name }}
           </a>
         </li>
