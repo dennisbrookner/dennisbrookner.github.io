@@ -1,6 +1,6 @@
 ---
 layout: bio_layout
-title: Dennis Brookner | Landing Page
+title: About Me
 myname: Dennis Brookner
 headshot: /assets/img/DennisBrooknerHeadshot.jpeg
 ---
