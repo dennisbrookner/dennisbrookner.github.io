@@ -2215,7 +2215,8 @@ textarea.form-control{
     transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out
 }
 .btn-vertical{
-    display: block
+    display: block;
+    margin: auto
 }
 @media (prefers-reduced-motion:reduce){
     .btn{
