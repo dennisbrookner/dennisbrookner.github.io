@@ -2,8 +2,8 @@
   <div id="icon-list">
     <ul class="list-inline">
       {% for item in site.data.navigation %}
-        <li>
-          <a href="{{ item.link }}" {% if page.url == item.link %}style="font-weight: bold;"{% endif %}>
+        <li {% if page.url == item.link %}style="font-weight: bold;"{% endif %}>
+          <a href="{{ item.link }}" >
             <button type="button" class="btn btn-vertical btn-outline-dark mb-2">
               {{ item.name }}
             </button>
