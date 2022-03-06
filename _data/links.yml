@@ -1,6 +1,6 @@
-- name: <i class="fa fa-linkedin"></i>
+- name: linkedin
   link: "https://www.linkedin.com/in/dennis-brookner/"
-- name: <i class="fa fa-github"></i>
+- name: github
   link: "https://github.com/dennisbrookner/"
-- name: <i class="fa fa-envelope"></i>
+- name: envelope
   link: "mailto:debrookner@gmail.com"
