@@ -11,17 +11,14 @@
         </li>
       {% endfor %}
     </ul>
-    
-    <h4 class="heading-centered">External links</h4>
-    
+        
     <ul class="list-inline">
       
       {% for item in site.data.links %}
         <li>
           <a href="{{ item.link }}" >
-            <button type="button" class="btn btn-vertical btn-outline-dark mb-2">
-              {{ item.name }}
-            </button>
+            <i class="fa fa-{{item.name}} fa-lg"></i>  
+            {{ item.name }}
           </a>
         </li>
       {% endfor %}
