@@ -1,12 +1,10 @@
 <div class="p-2">
   <div>
-    <ul class="list-inline">
+    <ul class="nav-outer">
       {% for item in site.data.navigation %}
-        <li {% if page.url == item.link %}style="font-weight: bold;"{% endif %}>
+        <li class="nav-inner {% if page.url == item.link %} current-page {% endif %}">
           <a href="{{ item.link }}" >
-            <button type="button" class="btn btn-vertical btn-outline-dark mb-2">
-              {{ item.name }}
-            </button>
+            {{ item.name }}
           </a>
         </li>
       {% endfor %}
@@ -18,7 +16,7 @@
               
           {% for item in site.data.links %}
             <a href="{{ item.link }}" class="p-2">
-              <i class="fa fa-{{item.name}} fa-2xl"></i>
+              <i class="fa fa-{{item.name}} fa-2xl" style="font-size: 25px;"></i>
             </a>
           {% endfor %}
               
