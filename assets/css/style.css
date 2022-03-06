@@ -56,7 +56,7 @@ body{
   line-height:1.5;
   color:#212529;
   text-align:left;
-  background-color:#B7D7F5
+  background-color:#8DA9C4
 }
 
 .nav-outer{
@@ -64,25 +64,25 @@ body{
   margin: 0;
   padding: 0;
   width: 80%;
-  background-color: #f1f1f1;
+  background-color: #134074;
 }
 
 .nav-inner{
   display: block;
-  color: #000;
+  color: white;
   padding: 8px 16px;
   text-decoration: none;
 }
 
 @media (hover: hover){
   .nav-inner:hover:not(.current-page){
-    background-color: #555;
+    background-color: #13315C;
     color: white;
   }
 }
 
 .current-page{
-  background-color: #04AA6D;
+  background-color: #0B2545;
   color: white;
 }
 
@@ -191,12 +191,12 @@ a:not([href]){
   a:not([href]):hover{
     color:inherit;
     text-decoration:none
+  }    
+  a-no-underline:hover {
+    text-decoration:none
   }
 }
 
-a-no-underline:hover {
-  text-decoration:none
-}
 
 code,kbd,pre,samp{
   font-family:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
