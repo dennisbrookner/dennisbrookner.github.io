@@ -74,6 +74,10 @@ h1,h2,h3,h4,h5,h6{
   margin-bottom:.5rem
 }
 
+.heading-centered{
+  margin-left:auto
+}
+
 p{
   margin-top:0;
   margin-bottom:1rem
