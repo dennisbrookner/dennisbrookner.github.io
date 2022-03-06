@@ -16,14 +16,28 @@ layout: default
         <div class="p-2">
           <div id="icon-list">
             <ul class="list-inline">
-                  
+
+              {% for item in site.data.navigation %}
+                <li>
+                  <a href="{{ item.link }}" >
+                    <button type="button" class="btn btn-vertical btn-outline-dark mb-2">
+                      {{ item.name }}
+                    </button>
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+            
+            <h3>External links</h3>
+            
+            <ul class="list-inline">
+              
               {% for item in site.data.links %}
                 <li>
                   <a href="{{ item.link }}" >
                     <button type="button" class="btn btn-vertical btn-outline-dark mb-2">
                       {{ item.name }}
                     </button>
-                    
                   </a>
                 </li>
               {% endfor %}
