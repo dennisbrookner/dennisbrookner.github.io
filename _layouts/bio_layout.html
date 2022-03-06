@@ -18,11 +18,12 @@ layout: default
             <ul class="list-inline">
                   
               {% for item in site.data.links %}
-                <li class="list-inline-item">
+                <li>
                   <a href="{{ item.link }}" >
                     <button type="button" class="btn btn-vertical btn-outline-dark mb-2">
                       {{ item.name }}
                     </button>
+                    
                   </a>
                 </li>
               {% endfor %}
