@@ -73,8 +73,6 @@ a:not([href]){
 
 @media (hover: hover){
   a:hover{
-    color: #000000;
-    font-weight: 500;
     text-decoration: underline
   }
   a:not([href]):hover{
