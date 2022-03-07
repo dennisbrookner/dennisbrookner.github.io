@@ -81,7 +81,6 @@ a:not([href]){
   }    
   a-no-underline:hover {
     text-decoration:none
-    
   }
 }
 
@@ -91,7 +90,7 @@ a:not([href]){
   padding: 0;
   width: 80%;
   max-width: 300px;
-  background-color: #77A2E4;
+  background-color: #558BDD;
 }
 
 .nav-inner{
@@ -104,10 +103,11 @@ a:not([href]){
 
 @media (hover: hover){
   .nav-inner:hover:not(.current-page){
-    background-color: #558BDD;
+    background-color: #4777bf;
     color: white;
-    text-decoration: none;
   }
+  .nav-inner:hover{
+    text-decoration: none;
 }
 
 .current-page{
