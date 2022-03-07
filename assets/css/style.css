@@ -91,7 +91,7 @@ a:not([href]){
   padding: 0;
   width: 80%;
   max-width: 300px;
-  background-color: #134074;
+  background-color: #A1B9CE;
 }
 
 .nav-inner{
@@ -110,7 +110,7 @@ a:not([href]){
 }
 
 .current-page{
-  background-color: #0B2545;
+  background-color: #0E2444;
   color: white;
 }
 
