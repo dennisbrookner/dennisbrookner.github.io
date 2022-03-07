@@ -73,7 +73,7 @@ a:not([href]){
 
 @media (hover: hover){
   a:hover{
-    text-decoration: underline
+    text-decoration:underline
   }
   a:not([href]):hover{
     color:inherit;
@@ -142,8 +142,8 @@ p{
 
 abbr[data-original-title],abbr[title]{
   text-decoration:underline;
-  -webkit-text-decoration:underline dotted;
-  text-decoration:underline dotted;
+  -webkit-text-decoration:underline;
+  text-decoration:underline;
   cursor:help;border-bottom:0;
   -webkit-text-decoration-skip-ink:none;
   text-decoration-skip-ink:none
