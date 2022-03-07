@@ -1,8 +1,6 @@
 ---
 layout: flexcolumns
 title: About Me
-myname: Dennis Brookner
-headshot: /assets/img/DennisBrooknerHeadshot.jpeg
 ---
 
 ## About Me
