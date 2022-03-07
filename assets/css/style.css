@@ -108,6 +108,7 @@ a:not([href]){
   }
   .nav-inner:hover{
     text-decoration: none;
+  }
 }
 
 .current-page{
