@@ -14,50 +14,14 @@
     
     <div class="row justify-content-center align-items-center">
       <div class="col-8 p-1 text-center">
-        <div>
-              
+        <div>    
           {% for item in site.data.links %}
             <a href="{{ item.link }}" class="p-2">
               <i class="fa fa-{{item.name}} fa-2xl" style="font-size: 25px;"></i>
             </a>
-          {% endfor %}
-              
+          {% endfor %} 
         </div>
       </div>
     </div>
   </div>
 </div>
-    
-    <!-- icons as list    
-    <ul class="list-inline">
-      
-      {% for item in site.data.links %}
-        <li class="text-center">
-          <a href="{{ item.link }}">
-            <i class="fa fa-{{item.name}} fa-2xl"></i>
-          </a>
-        </li>
-      {% endfor %}
-              
-    </ul>
--->
-
-
-
-<!-- old mobile version
-<div class="row justify-content-center align-items-center">
-          <div class="col-8 p-1 text-center">
-            <div class="list-group">
-                  
-              {% for item in site.data.links %}
-                <a href="{{ item.link }}" >
-                  <button type="button" class="btn btn-vertical btn-outline-dark mb-2">
-                    {{ item.name }}
-                  </button>
-                </a>
-              {% endfor %}
-                  
-            </div>
-          </div>
-        </div>
--->
