@@ -113,6 +113,7 @@ a:not([href]){
 .current-page{
   background-color: #0E2444;
   color: white;
+  text-decoration: none;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible){
