@@ -1,1 +1,55 @@
 /* writing handmade CSS! Where I actually know what all of it does! */
+
+/* The usual suspects:
+
+h*, ul, ol, li, a, p, html, footer, hav, article, aside, body, hr, b, strong, code, pre, img, caption, button
+
+*/
+
+/* Classes used in flexcolumns.html layout:
+
+container-fluid
+d-none
+d-lg-block
+d-xl-block
+d-flex
+row
+flex-row
+vh-100
+flex-column
+col-3
+align-items-center
+text-center
+align-self-center
+mx-auto
+p-3
+rounded
+p-2
+border-left
+col
+px-5
+mh-100
+my-5
+container-flex
+min-vh-100
+d-block
+d-lg-none
+d-xl-none
+justify-content-center
+mt-3
+pt-4
+px-5
+
+*/
+
+/* Classes used in navigation.html (mostly made by me) avoiding duplicates:
+
+nav-outer
+nav-inner
+current-page
+a-no-underline
+col-8
+p-1
+fa, etc.
+
+*/
