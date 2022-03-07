@@ -91,7 +91,7 @@ a:not([href]){
   padding: 0;
   width: 80%;
   max-width: 300px;
-  background-color: #A1B9CE;
+  background-color: #216EC0;
 }
 
 .nav-inner{
@@ -104,8 +104,9 @@ a:not([href]){
 
 @media (hover: hover){
   .nav-inner:hover:not(.current-page){
-    background-color: #13315C;
+    background-color: #1B5A9D;
     color: white;
+    text-decoration: none;
   }
 }
 
