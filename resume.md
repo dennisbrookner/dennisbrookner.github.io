@@ -15,15 +15,20 @@ B.S. in Molecular Biophysics & Biochemistry \| 2015-2019
   
 ## Experience
 
-**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - present
+**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - present  
+Investigation of protein structure and dynamics via electric-field stimulated crystallography (EF-X) and other crystallographic methods
 
-**Lab of Prof. José María Delfino**, Universidad de Buenos Aires \| Visiting Researcher \| Summer 2019
+**Lab of Prof. José María Delfino**, Universidad de Buenos Aires \| Visiting Researcher \| Summer 2019  
+Probing of protein solvent-accessible surface area via diazarine photochemical labelling while practicing Spanish-language immersion
 
-**Lab of Prof. Patrick Loria**, Yale University \| Undergraduate Researcher \| 2018 - 2019
+**Lab of Prof. Patrick Loria**, Yale University \| Undergraduate Researcher \| 2018 - 2019  
+Biophysical and biochemical characterization of protein tyrosine phosphatase structure and dynamics via NMR and crystallography
 
-**Merck & Co.** \| Structural Science Intern \| Summer 2017
+**Merck & Co.** \| Structural Science Intern \| Summer 2017  
+Crystal structure determination of a GPCR in complex with drug-candidate ligands
 
-**Lab of Prof. Craig Crews**, Yale University \| Undergraduate Researcher \| 2016 - 2017
+**Lab of Prof. Craig Crews**, Yale University \| Undergraduate Researcher \| 2016 - 2017  
+Investigation of cellular responses to partial protein unfolding through a variety of methods
   
 ---
     
