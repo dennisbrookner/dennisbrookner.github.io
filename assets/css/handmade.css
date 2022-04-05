@@ -124,47 +124,45 @@ img.rounded{
 /* Classes used in flexcolumns.html layout:
 
 container-fluid
+container-flex
+
 d-none
 d-lg-block
 d-xl-block
 d-flex
-row
-flex-row
-vh-100
-flex-column
-col-3
-align-items-center
-text-center
-align-self-center
-mx-auto
-p-3
-rounded
-p-2
-border-left
-col
-px-5
-mh-100
-my-5
-container-flex
-min-vh-100
 d-block
 d-lg-none
 d-xl-none
+
+row
+col
+col-3
+col-8
+flex-row
+flex-column
+
+align-items-center
+text-center
+align-self-center
 justify-content-center
+
+rounded
+border-left
+
+I kind of feel like the below are better done as on-the-fly styling?? I should probably read a little about best practices.
+
+vh-100
+mx-auto
+p-1
+p-2
+p-3
+px-5
+mh-100
+my-5
+min-vh-100
 mt-3
 pt-4
-px-5
 
-*/
-
-/* Classes used in navigation.html (mostly made by me) avoiding duplicates:
-
-nav-outer
-nav-inner
-current-page
-a-no-underline
-col-8
-p-1
-fa, etc.
+fa: maybe make a class here? might be overkill.
 
 */
