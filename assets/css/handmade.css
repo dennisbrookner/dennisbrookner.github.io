@@ -25,10 +25,101 @@ h6{
   font-size:1rem
 }
 
-/* The usual suspects:
-ul, ol, li, a, p, html, footer, hav, article, aside, body, hr, b, strong, code, pre, img, caption, button
+b,strong{
+  font-weight:bolder
+}
 
+dl,ol,ul,p{
+  margin-top:0;
+  margin-bottom:1rem
+}
+
+/* nothing for li */
+
+a{
+  color: #000000;
+  font-weight: 500;
+  text-decoration: none;
+  background-color: transparent
+}
+
+@media (hover: hover){
+  a:hover{
+    text-decoration:underline
+  } 
+  
+  a.a-no-underline:hover {
+    text-decoration:none
+  }
+}
+
+/* Custom navbar */
+.nav-outer{
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  width: 80%;
+  max-width: 300px;
+  background-color: #558BDD;
+}
+
+.nav-inner{
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+}
+
+@media (hover: hover){
+  .nav-inner:hover:not(.current-page){
+    background-color: #4777bf;
+    color: white;
+  }
+  .nav-inner:hover{
+    text-decoration: none;
+  }
+}
+
+.current-page{
+  background-color: #0E2444;
+  color: white;
+  text-decoration: none;
+}
+
+/* I should test if I need these! */
+footer,main{
+  display:block
+}
+
+footer{
+  font-size:smaller
+}
+
+hr.hr-60pct{
+  width: 60%
+}
+
+/*
+think about font families - maybe put those up in :root?
+Also, might need a word-wrap or something for pre if things look weird
 */
+code,pre{
+  font-family:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+
+/* Probably move some/all of this to a separate class!! */
+img{
+  vertical-align:middle;
+  border-style:none;
+  max-width: 80%;
+  max-height: 80%;
+  object-fit: contain;
+}
+
+img.rounded{
+  border-radius:.25rem
+}
 
 /* Classes used in flexcolumns.html layout:
 
