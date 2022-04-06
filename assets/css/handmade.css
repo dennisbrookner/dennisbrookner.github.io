@@ -137,18 +137,19 @@ img.rounded{
   }
 }
 
+.container-fluid{
+    width:80%;
+    padding-right:15px;
+    padding-left:15px;
+    margin-right:auto;
+    margin-left:auto
+}
+
 /* Classes used in flexcolumns.html layout:
 
-container-fluid
-container-flex
-
-d-none
-d-lg-block
-d-xl-block
 d-flex
 d-block
-d-lg-none
-d-xl-none
+
 
 row
 col
