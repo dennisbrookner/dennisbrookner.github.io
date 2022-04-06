@@ -121,6 +121,22 @@ img.rounded{
   border-radius:.25rem
 }
 
+.hidden{
+  display: none
+}
+
+@media (min-width:992px){
+  div.show-when-wide{
+    display: block
+  }
+}
+
+@media (max-width:991px){
+  div.show-when-narrow{
+    display: block
+  }
+}
+
 /* Classes used in flexcolumns.html layout:
 
 container-fluid
