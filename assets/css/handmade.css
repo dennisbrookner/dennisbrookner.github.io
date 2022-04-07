@@ -119,6 +119,10 @@ hr.hr-60pct{
   width: 60%
 }
 
+hr.hr-vertical-90pct{
+  width: 90%
+}
+
 /*
 think about font families - maybe put those up in :root?
 Also, might need a word-wrap or something for pre if things look weird
@@ -164,10 +168,32 @@ img.rounded{
     margin-left:auto
 }
 
+.d-flex{
+    display:flex
+}
+
+.align-items-center{
+    align-items:center
+}
+
+.align-self-center{
+    align-self:center
+}
+
+.justify-content-center{
+    justify-content:center
+}
+
+.text-center{
+    text-align:center
+}
+
+/* possibly turn this into img.headshot ? */
+.rounded{
+    border-radius:.25rem!important
+}
+
 /* Classes used in flexcolumns.html layout:
-
-d-flex
-
 
 row
 col
@@ -176,15 +202,8 @@ col-8
 flex-row
 flex-column
 
-align-items-center
-text-center
-align-self-center
-justify-content-center
-
-rounded
 border-left
 
-I kind of feel like the below are better done as on-the-fly styling?? I should probably read a little about best practices.
 
 vh-100
 mx-auto
