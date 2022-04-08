@@ -168,8 +168,14 @@ img.rounded{
     margin-left:auto
 }
 
-.d-flex{
-    display:flex
+.flex-row{
+    display:flex;
+    flex-direction:row
+}
+
+.flex-column{
+    display:flex;
+    flex-direction:column
 }
 
 .align-items-center{
@@ -205,10 +211,7 @@ row
 col
 col-3
 col-8
-flex-row
-flex-column
 
-vh-100
 mx-auto
 p-1
 p-2
