@@ -190,7 +190,13 @@ img.rounded{
 
 /* possibly turn this into img.headshot ? */
 .rounded{
-    border-radius:.25rem!important
+    border-radius:.25rem
+}
+
+/* Essentially a vertical rule */
+.vr-workaround{
+    border-left:1px solid #dee2e6;
+    height: 95vh
 }
 
 /* Classes used in flexcolumns.html layout:
@@ -201,9 +207,6 @@ col-3
 col-8
 flex-row
 flex-column
-
-border-left
-
 
 vh-100
 mx-auto
