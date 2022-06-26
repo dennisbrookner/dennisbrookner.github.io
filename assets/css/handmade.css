@@ -250,7 +250,7 @@ img.rounded{
 }
 
 .vh-100{
-    height:100vh
+    height:100vh!important
 }
 
 /* Classes used in flexcolumns.html layout: */
