@@ -253,6 +253,10 @@ img.rounded{
     height:100vh!important
 }
 
+.mh-100{
+    max-height:100%!important
+}
+
 /* Classes used in flexcolumns.html layout: */
 
 /*
