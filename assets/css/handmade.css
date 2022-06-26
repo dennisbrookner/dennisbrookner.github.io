@@ -220,6 +220,14 @@ img.rounded{
   margin-bottom:3rem;
 }
 
+.col-from-variable{
+    position:relative;
+    width:100%;
+    padding-right:15px;
+    padding-left:15px;
+    max-width: var(--width)
+}
+
 /*
 row
 col
