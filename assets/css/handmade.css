@@ -171,6 +171,11 @@ img.rounded{
     margin-left:auto
 }
 
+.d-flex{
+    display:-ms-flexbox;
+    display:flex
+}
+
 .row{
     display:-ms-flexbox;
     display:flex;
