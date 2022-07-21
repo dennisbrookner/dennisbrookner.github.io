@@ -67,7 +67,7 @@ a{
     text-decoration:underline
   } 
   
-  /* using this for my fa icon/linls
+  /* using this for my fa icon/links */
   a.a-no-underline:hover { 
     text-decoration:none;
     color: #808080
