@@ -1,0 +1,6 @@
+- name: linkedin
+  link: "https://www.linkedin.com/in/dennis-brookner/"
+- name: github
+  link: "https://github.com/dennisbrookner/"
+- name: envelope
+  link: "mailto:debrookner@gmail.com"

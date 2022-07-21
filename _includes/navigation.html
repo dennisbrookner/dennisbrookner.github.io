@@ -1,0 +1,27 @@
+<div class="p-2">
+  <div>
+    <ul class="nav-outer">
+      {% for item in site.data.navigation %}
+        <li>
+          <a class="nav-inner {% if page.url == item.link %} current-page {% endif %} a-no-underline" href="{{ item.link }}" >
+            {{ item.name }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+    
+    <hr style="width:60%;"/>
+    
+    <div class="row justify-content-center align-items-center">
+      <div class="col-8 p-1 text-center">
+        <div>    
+          {% for item in site.data.links %}
+            <a href="{{ item.link }}" class="p-2 a-no-underline gray-on-hover">
+              <i class="fa fa-{{item.name}} fa-2xl padded" style="font-size: 25px;"></i>
+            </a>
+          {% endfor %} 
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
