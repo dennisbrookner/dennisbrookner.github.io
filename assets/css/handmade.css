@@ -68,7 +68,8 @@ a{
   } 
   
   a.a-no-underline:hover {
-    text-decoration:none
+    text-decoration:none;
+    color: #a9a9a9
   }
 }
 
