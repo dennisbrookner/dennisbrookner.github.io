@@ -67,10 +67,16 @@ a{
     text-decoration:underline
   } 
   
-  a.a-no-underline:hover {
+  /* using this for my fa icon/linls
+  a.a-no-underline:hover { 
     text-decoration:none;
     color: #a9a9a9
   }
+}
+  
+i.padded{
+  padding-left: 10px;
+  padding-right: 10px
 }
 
 /* Custom navbar */
