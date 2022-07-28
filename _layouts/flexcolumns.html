@@ -2,11 +2,12 @@
 layout: default
 ---
 
-<!-- Desktop, two-column version of layout --> 
+<!-- Desktop, two-column version of layout -->
 
 <div class="container-80pct hidden show-when-wide">
   <div class="d-flex row flex-row vh-100">
-    <div class="d-flex flex-column col col-from-variable align-items-center text-center align-self-center" style="--width: 25%">
+    <div class="d-flex flex-column col col-from-variable align-items-center text-center align-self-center"
+      style="--width: 25%">
       <div class="mx-auto text-center">
         <div class="p-3">
           <img src="{{site.headshot}}" alt="Personal Headshot" class="rounded">
@@ -14,17 +15,18 @@ layout: default
         <div class="p-2">
           <h1>{{ site.title }}</h1>
         </div>
-        <hr class="hr-60pct"/>
-        
+        <hr class="hr-60pct" />
+
         {% include navigation.html %}
 
       </div>
     </div>
-    
+
     <div class="d-flex flex-column vr-workaround vh-100">
       <!-- this is a vertical rule between the columns -->
     </div>
-    <div class="d-flex flex-column col pad-lr-3rem align-items-center align-self-center mh-100" style="overflow-y: scroll;">
+    <div class="d-flex flex-column col pad-lr-3rem align-items-center align-self-center mh-100"
+      style="overflow-y: scroll;">
       <div class="pad-tb-3rem" id="content">
         {{ content }}
       </div>
@@ -38,7 +40,7 @@ layout: default
   </div>
 </div>
 
-<!-- Mobile/Narrow Screen, one-column version of layout --> 
+<!-- Mobile/Narrow Screen, one-column version of layout -->
 
 <div class="container-80pct hidden show-when-narrow">
   <div class="flex-row justify-content-center">
@@ -51,16 +53,16 @@ layout: default
         <div class="p-2 text-center">
           <h1>{{ site.title }}</h1>
         </div>
-        <hr class="hr-60pct"/>
+        <hr class="hr-60pct" />
 
         {% include navigation.html %}
-        
-        <hr class="hr-60pct"/>
-        
+
+        <hr class="hr-60pct" />
+
         <div class="p pt-4 px-5">
           {{ content }}
         </div>
-    
+
         <footer class="px-5">
           <p>
             Site by <a href="https://github.com/dennisbrookner">Dennis Brookner</a>
@@ -70,6 +72,7 @@ layout: default
             Templated from <a href="https://github.com/seankross/postcards">Sean Kross</a>
           </p>
         </footer>
+
       </div>
     </div>
   </div>
