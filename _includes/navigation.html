@@ -11,14 +11,14 @@
       {% endfor %}
     </ul>
 
-    <hr style="width:60%;" />
+    <hr class="hr-60pct" />
 
     <div class="row justify-content-center align-items-center">
       <div class="col-8 p-1 text-center">
         <div>
           {% for item in site.data.links %}
-          <a href="{{ item.link }}" class="p-2 a-no-underline gray-on-hover">
-            <i class="fa fa-{{item.name}} fa-2xl padded" style="font-size: 25px;"></i>
+          <a href="{{ item.link }}" class="p-2 a-no-underline favicon-hover">
+            <i class="fa fa-{{item.name}} fa-2xl favicon-sizing"></i>
           </a>
           {% endfor %}
         </div>

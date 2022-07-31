@@ -10,6 +10,10 @@ Ideally, this would be the only place in this file where hex codes live
   --navbar-background: #558BDD;
   --navbar-hover: #4777bf;
   --navbar-current: #0E2444;
+  --navbar-text: white;
+  --favicon-hover-color: #808080;
+  --hr-color: rgba(0, 0, 0, .1);
+  --vr-color: #dee2e6;
 }
 
 body {
@@ -76,10 +80,14 @@ p {
 
 /* Default link appearance is annoying, so redoing that */
 a {
-  color: #000000;
+  color: var(--page-text);
+  /* Hyperlinks same color as the rest of the text */
   font-weight: 500;
+  /* Hyperlinks bold */
   text-decoration: none;
+  /* Hyperlinks not underlined */
   background-color: transparent
+    /* Hyperlinks don't have weird highlighting */
 }
 
 @media (hover: hover) {
@@ -87,21 +95,22 @@ a {
     text-decoration: underline
   }
 
-  /* Remove default "underline on hover" behavior for links  */
+  /* Class to remove default "underline on hover" behavior for links  */
   a.a-no-underline:hover {
     text-decoration: none
   }
 
-  /* Change link color when hovering  */
-  a.gray-on-hover:hover {
-    color: #808080
+  /* Class to change link color when hovering  */
+  a.favicon-hover:hover {
+    color: var(--favicon-hover-color)
   }
 }
 
 /* Used to keep favicons from getting scrunched up */
-i.padded {
+i.favicon-sizing {
   padding-left: .15rem;
-  padding-right: .15rem
+  padding-right: .15rem;
+  font-size: 28px;
 }
 
 /* Custom navbar */
@@ -116,7 +125,7 @@ i.padded {
 
 .nav-inner {
   display: block;
-  color: white;
+  color: var(--navbar-text);
   padding: 8px 16px;
   text-align: center;
   text-decoration: none;
@@ -125,7 +134,7 @@ i.padded {
 @media (hover: hover) {
   .nav-inner:hover:not(.current-page) {
     background-color: var(--navbar-hover);
-    color: white;
+    color: var(--navbar-text);
   }
 
   .nav-inner:hover {
@@ -135,7 +144,7 @@ i.padded {
 
 .current-page {
   background-color: var(--navbar-current);
-  color: white;
+  color: var(--navbar-text);
   text-decoration: none;
 }
 
@@ -154,7 +163,7 @@ hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, .1)
+  border-top: 1px solid var(--hr-color)
 }
 
 hr.hr-60pct {
@@ -191,13 +200,13 @@ img.rounded {
   display: none
 }
 
-@media (min-width:992px) {
+@media (min-width: 991px) {
   div.show-when-wide {
     display: block
   }
 }
 
-@media (max-width:991px) {
+@media (max-width: 992px) {
   div.show-when-narrow {
     display: block
   }
@@ -271,7 +280,7 @@ img.rounded {
 
 /* Essentially a vertical rule */
 .vr-workaround {
-  border-left: 1px solid #dee2e6;
+  border-left: 1px solid var(--vr-color);
   height: 95vh
 }
 
@@ -286,13 +295,12 @@ img.rounded {
 }
 
 /*
-These two classes are important if you want part of a page to scroll and another part to not scroll.
-I'm not sure why the !important is required, but I couldn't get this to work without it.
+These two classes allow part of a page to scroll and another part to not scroll.
 */
 .vh-100 {
-  height: 100vh !important
+  height: 100vh
 }
 
 .mh-100 {
-  max-height: 100% !important
+  max-height: 100%
 }

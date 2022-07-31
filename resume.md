@@ -46,7 +46,7 @@ Investigation of cellular responses to partial protein unfolding through a varie
  - Protein crystallization and screen design using vapor diffusion, lipidic cubic phase methods
  - DIALS, CCP4, PHENIX, and Coot for data processing and structure determination
  - Modeling of multiple loop states and unknown ligands
- - Customized handling of unusual diffraction data via reciprocalspaceship
+ - Customized handling of unusual diffraction data via [`reciprocalspaceship`](https://hekstra-lab.github.io/reciprocalspaceship/)
  - Phasing via selenomethionine labelling and single-wavelength anomalous dispersion  
 
 ##### Biochemistry & Biophysics  
