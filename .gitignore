@@ -4,3 +4,8 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Things needed to run jekyll locally but not needed online
+_site/*
+.sass-cache/*
+Gemfile.lock
