@@ -18,24 +18,24 @@ B.S. in Molecular Biophysics & Biochemistry \| 2015-2019
   
 ## Experience
 
-<button class='clickable start'>Learn more</button>
+<button class='btn clickable start'>Learn more</button>
 
-<button class='hekstra exp'>**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - present  
+<button class='btn hekstra exp'>**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - present  
 Investigation of protein structure and dynamics via electric-field stimulated crystallography (EF-X) and other crystallographic methods</button>
 
-<button class='delfino exp'>**Lab of Prof. José María Delfino**, Universidad de Buenos Aires \| Visiting Researcher \| Summer 2019  
+<button class='btn delfino exp'>**Lab of Prof. José María Delfino**, Universidad de Buenos Aires \| Visiting Researcher \| Summer 2019  
 Probing of protein solvent-accessible surface area via diazarine photochemical labelling while practicing Spanish-language immersion</button>
 
-<button class='loria exp'>**Lab of Prof. Patrick Loria**, Yale University \| Undergraduate Researcher \| 2018 - 2019  
+<button class='btn loria exp'>**Lab of Prof. Patrick Loria**, Yale University \| Undergraduate Researcher \| 2018 - 2019  
 Biophysical and biochemical characterization of protein tyrosine phosphatase structure and dynamics via NMR and crystallography</button>
 
-<button class='merck exp'>**Merck & Co.** \| Structural Science Intern \| Summer 2017  
+<button class='btn merck exp'>**Merck & Co.** \| Structural Science Intern \| Summer 2017  
 Crystal structure determination of a GPCR in complex with drug-candidate ligands</button>
 
-<button class='crews exp'>**Lab of Prof. Craig Crews**, Yale University \| Undergraduate Researcher \| 2016 - 2017  
+<button class='btn crews exp'>**Lab of Prof. Craig Crews**, Yale University \| Undergraduate Researcher \| 2016 - 2017  
 Investigation of cellular responses to partial protein unfolding through a variety of methods</button>
 
-<button class='back'></button>
+<button class='btn back'></button>
 
 ---
     

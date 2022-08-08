@@ -317,7 +317,7 @@ These two classes allow part of a page to scroll and another part to not scroll.
 Override the ugly default button styles
 Buttons now just look like regular text
 */
-button {
+button.btn {
   color: inherit;
   text-align: inherit;
   font-size: inherit;
@@ -327,6 +327,6 @@ button {
 }
 
 /* Add this class to buttons with active event listeners */
-button.clickable:hover {
+button.btn.clickable:hover {
   text-decoration: underline;
 }
