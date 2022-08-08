@@ -4,7 +4,4 @@ headshot: /assets/img/DennisBrooknerHeadshot.jpeg
 gems:
   - jekyll-font-awesome-sass
 
-
-theme: jekyll-theme-minimal
-
-port: 4445
+port: 4446

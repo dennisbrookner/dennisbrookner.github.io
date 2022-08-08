@@ -2,7 +2,6 @@
 
 /*
 Declare some colors that I can use throughout
-Ideally, this would be the only place in this file where hex codes live
 */
 :root {
   --page-background: #CAD7E3;
@@ -303,4 +302,31 @@ These two classes allow part of a page to scroll and another part to not scroll.
 
 .mh-100 {
   max-height: 100%
+}
+
+/* Class for the active and inactive experiences */
+.active {
+  font-weight: bolder;
+}
+
+.inactive {
+  opacity: 0.5;
+}
+
+/* 
+Override the ugly default button styles
+Buttons now just look like regular text
+*/
+button {
+  color: inherit;
+  text-align: inherit;
+  font-size: inherit;
+  background-color: inherit;
+  border: inherit;
+  padding-left: inherit;
+}
+
+/* Add this class to buttons with active event listeners */
+button.clickable:hover {
+  text-decoration: underline;
 }
