@@ -3,6 +3,9 @@ title: Resume
 layout: flexcolumns
 ---
 
+  <script defer src="/assets/js/interactive_resume.js"></script>
+
+
 ## Education
 
 **Harvard University** \| Cambridge, MA  
@@ -15,56 +18,62 @@ B.S. in Molecular Biophysics & Biochemistry \| 2015-2019
   
 ## Experience
 
-**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - present  
-Investigation of protein structure and dynamics via electric-field stimulated crystallography (EF-X) and other crystallographic methods
+<button class='btn clickable start'>Learn more</button>
 
-**Lab of Prof. José María Delfino**, Universidad de Buenos Aires \| Visiting Researcher \| Summer 2019  
-Probing of protein solvent-accessible surface area via diazarine photochemical labelling while practicing Spanish-language immersion
+<button class='btn hekstra exp'>**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - present  
+Investigation of protein structure and dynamics via electric-field stimulated crystallography (EF-X) and other crystallographic methods</button>
 
-**Lab of Prof. Patrick Loria**, Yale University \| Undergraduate Researcher \| 2018 - 2019  
-Biophysical and biochemical characterization of protein tyrosine phosphatase structure and dynamics via NMR and crystallography
+<button class='btn delfino exp'>**Lab of Prof. José María Delfino**, Universidad de Buenos Aires \| Visiting Researcher \| Summer 2019  
+Probing of protein solvent-accessible surface area via diazarine photochemical labelling while practicing Spanish-language immersion</button>
 
-**Merck & Co.** \| Structural Science Intern \| Summer 2017  
-Crystal structure determination of a GPCR in complex with drug-candidate ligands
+<button class='btn loria exp'>**Lab of Prof. Patrick Loria**, Yale University \| Undergraduate Researcher \| 2018 - 2019  
+Biophysical and biochemical characterization of protein tyrosine phosphatase structure and dynamics via NMR and crystallography</button>
 
-**Lab of Prof. Craig Crews**, Yale University \| Undergraduate Researcher \| 2016 - 2017  
-Investigation of cellular responses to partial protein unfolding through a variety of methods
-  
+<button class='btn merck exp'>**Merck & Co.** \| Structural Science Intern \| Summer 2017  
+Crystal structure determination of a GPCR in complex with drug-candidate ligands</button>
+
+<button class='btn crews exp'>**Lab of Prof. Craig Crews**, Yale University \| Undergraduate Researcher \| 2016 - 2017  
+Investigation of cellular responses to partial protein unfolding through a variety of methods</button>
+
+<button class='btn back'></button>
+
 ---
     
-## Publications  
-**[Uncovering the Molecular Interactions in the Catalytic Loop That Modulate the Conformational Dynamics in Protein Tyrosine Phosphatase 1B](https://pubs.acs.org/doi/10.1021/jacs.9b04470)**, *JACS*, 2019  
+## Publications
+
+<span class='skill paper loria'>**[Uncovering the Molecular Interactions in the Catalytic Loop That Modulate the Conformational Dynamics in Protein Tyrosine Phosphatase 1B](https://pubs.acs.org/doi/10.1021/jacs.9b04470)**, *JACS*, 2019</span>
   
-**[Targeted protein unfolding uncovers a Golgi-specific transcriptional stress response](https://www.molbiolcell.org/doi/10.1091/mbc.E17-11-0693)**, *MBoC*, 2018 
+<span class='skill paper crews'>**[Targeted protein unfolding uncovers a Golgi-specific transcriptional stress response](https://www.molbiolcell.org/doi/10.1091/mbc.E17-11-0693)**, *MBoC*, 2018 </span>
   
 ---
   
 ## Skills
 
-##### X-Ray Crystallography  
+##### X-Ray Crystallography
 
- - Protein crystallization and screen design using vapor diffusion, lipidic cubic phase methods
- - DIALS, CCP4, PHENIX, and Coot for data processing and structure determination
- - Modeling of multiple loop states and unknown ligands
- - Customized handling of unusual diffraction data via [`reciprocalspaceship`](https://hekstra-lab.github.io/reciprocalspaceship/)
- - Phasing via selenomethionine labelling and single-wavelength anomalous dispersion  
+ - <span class='skill hekstra merck loria'> Protein crystallization and screen design using vapor diffusion, lipidic cubic phase methods </span>
+ - <span class='skill hekstra merck loria'>DIALS, CCP4, PHENIX, and Coot for data processing and structure determination</span>
+ - <span class='skill hekstra loria'>Modeling of multiple loop states and unknown ligands</span>
+ - <span class='skill hekstra'>Customized handling of unusual diffraction data via [`reciprocalspaceship`](https://hekstra-lab.github.io/reciprocalspaceship/)</span>
+ - <span class='skill hekstra'>Phasing via selenomethionine labelling and single-wavelength anomalous dispersion</span>
 
 ##### Biochemistry & Biophysics  
 
- - Protein expression and purification (IMAC, IEX, SEC) using FPLC and manual methods
- - Enzyme kinetics assays in both steady-state and pre-steady-state regimes
- - Immunoprecipitation (pulldown) to determine protein binding partners
- - Protein stability quantification via limited proteolysis and melting-point analysis
- - Two-dimensional <sup>1</sup>H <sup>13</sup>C HSQC NMR for investigation of enzyme dynamics
- - One-dimensional <sup>31</sup>P NMR for study of phosphoenzyme species  
+ - <span class='skill hekstra merck loria crews'>Protein expression and purification (IMAC, IEX, SEC) using FPLC and manual methods</span>
+ - <span class='skill loria'>Enzyme kinetics assays in both steady-state and pre-steady-state regimes</span>
+ - <span class='skill crews'>Immunoprecipitation (pulldown) to determine protein binding partners</span>
+ - <span class='skill crews merck delfino'>Protein stability quantification via limited proteolysis, melting-point analysis, colorometric assays</span>
+ - <span class='skill delfino'>Diazarine labelling for analysis of solvent-accessible surface area</span>
+ - <span class='skill loria'>Two-dimensional <sup>1</sup>H <sup>13</sup>C HSQC NMR for investigation of enzyme dynamics</span>
+ - <span class='skill loria'>One-dimensional <sup>31</sup>P NMR for study of phosphoenzyme species</span>
   
 ##### Cell & Molecular Biology  
   
- - DNA cloning for creation of novel protein constructs including fusion proteins and point mutants
- - Mammalian tissue culture including transfection of plasmids of interest
- - Western blot analysis of protein levels in cell lysate
- - Confocal microscopy to assess subcellular localization of fluorescent fusion proteins
+ - <span class='skill crews loria hekstra'>DNA cloning for creation of novel protein constructs including fusion proteins and point mutants</span>
+ - <span class='skill crews'>Mammalian tissue culture including transfection of plasmids of interest</span>
+ - <span class='skill crews'>Western blot analysis of protein levels in cell lysate</span>
+ - <span class='skill crews'>Confocal microscopy to assess subcellular localization of fluorescent fusion proteins</span>
   
 ##### Programming  
   
- - Python, bash, R, Java
+ - <span class='skill hekstra merck'>Python, bash, R, Java</span>
