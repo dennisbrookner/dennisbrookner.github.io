@@ -5,7 +5,7 @@ layout: flexcolumns
 
 ## About Me
 
-I'm a fourth-year Ph.D. student in [Prof. Doeke Hekstra's lab](https://hekstralab.fas.harvard.edu) in the Harvard Department of Molecular & Cellular Biology. My research involves using X-ray crystallography to explore how protein structure and dynamics contribute to function. After graduate school, I plan to continue working in biochemistry, biophysics, or structural biology, in either academia or industry.
+I'm a fourth-year Ph.D. student in [Prof. Doeke Hekstra's lab](https://hekstralab.fas.harvard.edu) in the Harvard Dept. of Molecular & Cellular Biology. My research involves using X-ray crystallography to explore how protein structure and dynamics contribute to function. After graduate school, I plan to continue working in biochemistry, biophysics, or structural biology, in either academia or industry.
 
 ### Computational interests  
   
