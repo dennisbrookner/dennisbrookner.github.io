@@ -35,7 +35,7 @@ Crystal structure determination of a GPCR in complex with drug-candidate ligands
 <button class='btn crews exp'>**Lab of Prof. Craig Crews**, Yale University \| Undergraduate Researcher \| 2016 - 2017  
 Investigation of cellular responses to partial protein unfolding through a variety of methods</button>
 
-<button class='btn back'></button>
+<button class='btn back clickable hidden'>Back to static version of site</button>
 
 ---
     
@@ -77,3 +77,6 @@ Investigation of cellular responses to partial protein unfolding through a varie
 ##### Programming  
   
  - <span class='skill hekstra merck'>Python, bash, R, Java</span>
+
+
+<button class='btn to-top clickable hidden'>Back to experiences <i class="fa fa-level-up"></i></button>

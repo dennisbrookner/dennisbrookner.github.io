@@ -37,8 +37,10 @@ function activateSite() {
 
     startButtons = document.getElementsByClassName('start')
     backButtons = document.getElementsByClassName('back')
+    toTopButtons = document.getElementsByClassName('to-top')
 
     for (i = 0; i < n; i++) {
+        console.log('i is ' + i)
 
         // Deactivate start button and change to help message
         startButtons[i].classList.remove('clickable')
@@ -46,11 +48,41 @@ function activateSite() {
         startButtons[i].removeEventListener('click', activateSite)
 
         // Activate back button
-        backButtons[i].classList.add('clickable')
-        backButtons[i].innerHTML = 'Back to static version of site'
+        backButtons[i].classList.remove('hidden')
         backButtons[i].addEventListener('click', deactivateSite)
+
+        // Unhide go to top button
+        toTopButtons[i].classList.remove('hidden')
+
     }
+
+    /**
+     * The issue here is that the event listener doesn't excecute code, just sets it aside for later. When the code
+     * does then get executed, the value of "i" is now something unrelated / unreliable. 
+     * 
+     * I'm just going to hard code in two scrolling functions and asign them to the two buttons
+     */
+
+    toTopButtons[0].addEventListener('click', function () {
+        scrollUp(0)
+    })
+
+    toTopButtons[1].addEventListener('click', function () {
+        scrollUp(1)
+    })
+
+    function scrollUp(x) {
+        document.querySelectorAll('#experience')[x].scrollIntoView({ behavior: "smooth" })
+        //experienceHeader.
+        //alert('clicked')
+        //toTopButtons[i].classList.add('active')
+
+    }
+
+
 }
+
+
 
 /**
  * Update formatting of skills and papers
