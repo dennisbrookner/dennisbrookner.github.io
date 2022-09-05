@@ -1,0 +1,80 @@
+- text: "Protein crystallization and screen design using vapor diffusion, lipidic cubic phase methods"
+  category: xray
+  labs: 
+    - hekstra 
+    - merck
+    - loria
+- text: "DIALS, CCP4, PHENIX, and Coot for data processing and structure determination"
+  category: xray
+  labs: 
+    - hekstra
+    - merck
+    - loria
+
+<span class='skill hekstra loria'>Modeling of multiple loop states and unknown ligands</span>
+- text:    
+  category:
+  labs: 
+ - <span class='skill hekstra'>Customized handling of unusual diffraction data via [`reciprocalspaceship`](https://hekstra-lab.github.io/reciprocalspaceship/)</span>
+- text:    
+  category:
+  labs:    
+ - <span class='skill hekstra'>Phasing via selenomethionine labelling and single-wavelength anomalous dispersion</span>
+- text:    
+  category:
+  labs:    
+ - <span class='skill hekstra merck loria crews'>Protein expression and purification (IMAC, IEX, SEC) using FPLC and manual methods</span>
+- text:    
+  category:
+  labs:    
+ - <span class='skill loria'>Enzyme kinetics assays in both steady-state and pre-steady-state regimes</span>
+- text:    
+  category:
+  labs:    
+ - <span class='skill crews'>Immunoprecipitation (pulldown) to determine protein binding partners</span>
+- text:    
+  category:
+  labs:    
+ - <span class='skill crews merck delfino'>Protein stability quantification via limited proteolysis, melting-point analysis, colorometric assays</span>
+- text:    
+  category:
+  labs:    
+ - <span class='skill delfino'>Diazarine labelling for analysis of solvent-accessible surface area</span>
+
+- text:    
+  category:
+  labs:  
+ - <span class='skill loria'>Two-dimensional <sup>1</sup>H <sup>13</sup>C HSQC NMR for investigation of enzyme dynamics</span>
+
+- text:    
+  category:
+  labs:  
+ - <span class='skill loria'>One-dimensional <sup>31</sup>P NMR for study of phosphoenzyme species</span>
+
+- text:    
+  category:
+  labs: 
+   - <span class='skill crews loria hekstra'>DNA cloning for creation of novel protein constructs including fusion proteins and point mutants</span>
+
+- text:    
+  category:
+  labs:  
+ - <span class='skill crews'>Mammalian tissue culture including transfection of plasmids of interest</span>
+
+- text:    
+  category:
+  labs:  
+ - <span class='skill crews'>Western blot analysis of protein levels in cell lysate</span>
+
+- text:    
+  category:
+  labs:  
+ - <span class='skill crews'>Confocal microscopy to assess subcellular localization of fluorescent fusion proteins</span>
+
+- text:    
+  category:
+  labs:  
+ - <span class='skill hekstra merck'>Python, bash, R, Java</span>
+- text:    
+  category:
+  labs:  
