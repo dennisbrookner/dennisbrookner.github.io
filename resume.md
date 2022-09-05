@@ -18,8 +18,6 @@ B.S. in Molecular Biophysics & Biochemistry \| 2015-2019
   
 ## Experience
 
-<button class='btn clickable start'>Learn more</button>
-
 <button class='btn hekstra exp'>**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - present  
 Investigation of protein structure and dynamics via electric-field stimulated crystallography (EF-X) and other crystallographic methods</button>
 
