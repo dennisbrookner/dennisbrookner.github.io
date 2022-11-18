@@ -176,6 +176,7 @@ Also, might need a word-wrap or something for pre if things look weird
 code,
 pre {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.875em; /* Otherwise the code looks weirdly big! */
 }
 
 /*
