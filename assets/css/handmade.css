@@ -13,6 +13,7 @@ Declare some colors that I can use throughout
   --favicon-hover-color: #808080;
   --hr-color: rgba(0, 0, 0, .1);
   --vr-color: #dee2e6;
+  --scrollbar-thumb-color: #adbecf;
 }
 
 body {
@@ -24,6 +25,15 @@ body {
   color: var(--page-text);
   text-align: left;
   background-color: var(--page-background);
+}
+
+::-webkit-scrollbar {
+  background-color: var(--page-background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb-color);
+  border-radius: 10px;
 }
 
 h1,
@@ -302,7 +312,9 @@ These two classes allow part of a page to scroll and another part to not scroll.
 }
 
 .mh-100 {
-  max-height: 100%
+  max-height: 100%;
+  scrollbar-color: var(--page-background) white;
+
 }
 
 /* Class for the active and inactive experiences */
