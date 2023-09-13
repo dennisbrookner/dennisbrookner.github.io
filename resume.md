@@ -39,6 +39,10 @@ Investigation of cellular responses to partial protein unfolding through a varie
     
 ## Publications
 
+<span class='skill paper hekstra'>**[MatchMaps: Non-isomorphous difference maps for X-ray crystallography](https://doi.org/10.1101/2023.09.01.555333)**, *bioRxiv (pre-print)*, 2023</span>
+
+<span class='skill paper hekstra'>**[Resolving conformational changes that mediate a two-step catalytic mechanism in a model enzyme](https://doi.org/10.1101/2023.06.02.543507)**, *bioRxiv (pre-print)*, 2023</span>
+
 <span class='skill paper loria'>**[Uncovering the Molecular Interactions in the Catalytic Loop That Modulate the Conformational Dynamics in Protein Tyrosine Phosphatase 1B](https://pubs.acs.org/doi/10.1021/jacs.9b04470)**, *JACS*, 2019</span>
   
 <span class='skill paper crews'>**[Targeted protein unfolding uncovers a Golgi-specific transcriptional stress response](https://www.molbiolcell.org/doi/10.1091/mbc.E17-11-0693)**, *MBoC*, 2018 </span>
