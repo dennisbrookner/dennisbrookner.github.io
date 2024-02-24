@@ -231,6 +231,11 @@ img.rounded {
   margin-left: auto;
 }
 
+.container-padded {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
 .d-flex {
   display: -ms-flexbox;
   display: flex
