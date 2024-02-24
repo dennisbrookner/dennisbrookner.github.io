@@ -39,9 +39,9 @@ Investigation of cellular responses to partial protein unfolding through a varie
     
 ## Publications
 
-<span class='skill paper hekstra'>**[MatchMaps: Non-isomorphous difference maps for X-ray crystallography](https://doi.org/10.1101/2023.09.01.555333)**, *bioRxiv (pre-print)*, 2023</span>
+<span class='skill paper hekstra'>**[MatchMaps: Non-isomorphous difference maps for X-ray crystallography](https://doi.org/10.1101/2023.09.01.555333)**, *bioRxiv (pre-print)*, 2024</span>
 
-<span class='skill paper hekstra'>**[Resolving conformational changes that mediate a two-step catalytic mechanism in a model enzyme](https://doi.org/10.1101/2023.06.02.543507)**, *bioRxiv (pre-print)*, 2023</span>
+<span class='skill paper hekstra'>**[Perturbative diffraction methods resolve a conformational switch that facilitates a two-step enzymatic mechanism](https://doi.org/10.1073/pnas.2313192121)**, *PNAS*, 2024</span>
 
 <span class='skill paper loria'>**[Uncovering the Molecular Interactions in the Catalytic Loop That Modulate the Conformational Dynamics in Protein Tyrosine Phosphatase 1B](https://pubs.acs.org/doi/10.1021/jacs.9b04470)**, *JACS*, 2019</span>
   
@@ -62,7 +62,7 @@ Investigation of cellular responses to partial protein unfolding through a varie
 ##### Biochemistry & Biophysics  
 
  - <span class='skill hekstra merck loria crews'>Protein expression and purification (IMAC, IEX, SEC) using FPLC and manual methods</span>
- - <span class='skill loria'>Enzyme kinetics assays in both steady-state and pre-steady-state regimes</span>
+ - <span class='skill hekstra loria'>Enzyme kinetics assays in both steady-state and pre-steady-state regimes</span>
  - <span class='skill crews'>Immunoprecipitation (pulldown) to determine protein binding partners</span>
  - <span class='skill crews merck delfino'>Protein stability quantification via limited proteolysis, melting-point analysis, colorometric assays</span>
  - <span class='skill delfino'>Diazarine labelling for analysis of solvent-accessible surface area</span>
