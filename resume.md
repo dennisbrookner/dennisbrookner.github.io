@@ -39,7 +39,7 @@ Investigation of cellular responses to partial protein unfolding through a varie
     
 ## Publications
 
-<span class='skill paper hekstra'>**[MatchMaps: Non-isomorphous difference maps for X-ray crystallography](https://doi.org/10.1101/2023.09.01.555333)**, *bioRxiv (pre-print)*, 2024</span>
+<span class='skill paper hekstra'>**[MatchMaps: non-isomorphous difference maps for X-ray crystallography](https://journals.iucr.org/j/issues/2024/03/00/ei5112/index.html)**, *J. Appl. Cryst.*, 2024</span>
 
 <span class='skill paper hekstra'>**[Perturbative diffraction methods resolve a conformational switch that facilitates a two-step enzymatic mechanism](https://doi.org/10.1073/pnas.2313192121)**, *PNAS*, 2024</span>
 
