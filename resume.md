@@ -39,7 +39,7 @@ Investigation of cellular responses to partial protein unfolding through a varie
     
 ## Publications
 
-<span class='skill paper hekstra'>**[Laue-DIALS: open-source software for polychromatic X-ray diffraction data](https://www.biorxiv.org/content/10.1101/2024.07.23.604358v1)**, *bioRxiv* (pre-print)</span>
+<span class='skill paper hekstra'>**[Laue-DIALS: open-source software for polychromatic X-ray diffraction data](https://doi.org/10.1063/4.0000265)**, *Structural Dynamics*, 2024</span>
 
 <span class='skill paper hekstra'>**[MatchMaps: non-isomorphous difference maps for X-ray crystallography](https://journals.iucr.org/j/issues/2024/03/00/ei5112/index.html)**, *J. Appl. Cryst.*, 2024</span>
 
