@@ -9,7 +9,7 @@ layout: flexcolumns
 ## Education
 
 **Harvard University** \| Cambridge, MA  
-Ph.D. in Biochemistry (in progress) \| 2019 - Present
+Ph.D. in Biochemistry \| 2019 - 2025
   
 **Yale University** \| New Haven, CT  
 B.S. in Molecular Biophysics & Biochemistry \| 2015-2019  
@@ -58,29 +58,36 @@ Investigation of cellular responses to partial protein unfolding through a varie
  - <span class='skill hekstra merck loria'> Protein crystallization and screen design using vapor diffusion, lipidic cubic phase methods </span>
  - <span class='skill hekstra merck loria'>DIALS, CCP4, PHENIX, and Coot for data processing and structure determination</span>
  - <span class='skill hekstra loria'>Modeling of multiple loop states and unknown ligands</span>
- - <span class='skill hekstra'>Customized handling of unusual diffraction data via [`reciprocalspaceship`](https://hekstra-lab.github.io/reciprocalspaceship/)</span>
+ - <span class='skill hekstra'>Customized handling of unusual diffraction data via [`reciprocalspaceship`](https://rs-station.github.io/reciprocalspaceship/)</span>
+ - <span class='skill hekstra'>Development of crystallographic software for novel analysis, such as [`matchmaps`](https://rs-station.github.io/matchmaps/)</span>
  - <span class='skill hekstra'>Phasing via selenomethionine labelling and single-wavelength anomalous dispersion</span>
 
 ##### Biochemistry & Biophysics  
 
  - <span class='skill hekstra merck loria crews'>Protein expression and purification (IMAC, IEX, SEC) using FPLC and manual methods</span>
  - <span class='skill hekstra loria'>Enzyme kinetics assays in both steady-state and pre-steady-state regimes</span>
+ - <span class='skill hekstra'>MicroScale Thermophoresis for affinity measurements</span>
  - <span class='skill crews'>Immunoprecipitation (pulldown) to determine protein binding partners</span>
- - <span class='skill crews merck delfino'>Protein stability quantification via limited proteolysis, melting-point analysis, colorometric assays</span>
+ - <span class='skill crews merck delfino'>Protein stability quantification via limited proteolysis, melting-point analysis (NanoDSF), colorometric assays</span>
  - <span class='skill delfino'>Diazarine labelling for analysis of solvent-accessible surface area</span>
  - <span class='skill loria'>Two-dimensional <sup>1</sup>H <sup>13</sup>C HSQC NMR for investigation of enzyme dynamics</span>
  - <span class='skill loria'>One-dimensional <sup>31</sup>P NMR for study of phosphoenzyme species</span>
   
 ##### Cell & Molecular Biology  
   
+ - <span class='skill hekstra'>Knockout-rescue growth assays for screening of protein variants</span>
  - <span class='skill crews loria hekstra'>DNA cloning for creation of novel protein constructs including fusion proteins and point mutants</span>
+ - <span class='skill hekstra'>Gibson assembly for design of custom plasmids</span>
  - <span class='skill crews'>Mammalian tissue culture including transfection of plasmids of interest</span>
  - <span class='skill crews'>Western blot analysis of protein levels in cell lysate</span>
  - <span class='skill crews'>Confocal microscopy to assess subcellular localization of fluorescent fusion proteins</span>
   
-##### Programming  
+##### Computational skills  
   
- - <span class='skill hekstra merck'>Python, bash, R, Java</span>
+ - <span class='skill hekstra'>python and R for data analysis and visualization</span>
+ - <span class='skill hekstra'>Collaborative package development and management in python and R</span>
+ - <span class='skill hekstra merck'>bash and slurm scripting for high-performance CPU and GPU computing</span>
+ - <span class='skill'>Web design in HTML, CSS, Jekyll, JavaScript</span>
 
 
 <button class='btn to-top clickable hidden'>Back to experiences <i class="fa fa-level-up"></i></button>
