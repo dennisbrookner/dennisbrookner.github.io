@@ -7,7 +7,6 @@ layout: flexcolumns
 
 I earned my Ph.D. from the Harvard Department of Molecular & Cellular Biology in May 2025. My research in [Prof. Doeke Hekstra's lab](https://hekstralab.fas.harvard.edu) involves using X-ray crystallography and other biochemical and biophysical methods to explore how protein structure and dynamics contribute to function. 
 
-I'm an experienced experimentalist and python developer/programmer, and I'm seeking a role in the biotechnology or pharmaceutical industries at the intersection of those two skills. I'm excited to continue developing my passion for biochemistry, biophysics, and structural biology in my next steps and beyond.
 
 ### Research interests  
 
