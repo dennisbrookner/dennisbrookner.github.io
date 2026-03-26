@@ -6,17 +6,22 @@ Declare some colors that I can use throughout
 :root {
   --page-background: #CAD7E3;
   --page-text: #212529;
+  --page-background-dark: #0a0b0b;
+  --page-text-dark: #abadaf;
   --navbar-background: #558BDD;
   --navbar-hover: #4777bf;
   --navbar-current: #0E2444;
   --navbar-text: white;
+  --navbar-text-dark: var(--page-text-dark);
+  --title-dark: white;
+  --anchor-color-dark: white;
   --favicon-hover-color: #808080;
   --hr-color: rgba(0, 0, 0, .1);
   --vr-color: #dee2e6;
   --scrollbar-thumb-color: #adbecf;
 }
 
-body {
+.site-theme {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
@@ -25,6 +30,13 @@ body {
   color: var(--page-text);
   text-align: left;
   background-color: var(--page-background);
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-theme {
+    color: var(--page-text-dark);
+    background-color: var(--page-background-dark);
+  }
 }
 
 ::-webkit-scrollbar {
@@ -85,18 +97,33 @@ p {
   margin-bottom: 1rem
 }
 
+@media (prefers-color-scheme: dark) {
+  /* In light mode, color matches text; in dark mode, text is off-white, but title is white*/
+  .title {
+    color: var(--title-dark);
+  }
+  
+}
+
 /* nothing for li, defaults are fine */
 
 /* Default link appearance is annoying, so redoing that */
 a {
-  color: var(--page-text);
-  /* Hyperlinks same color as the rest of the text */
+  color: inherit;
+  /* Hyperlinks same color as the rest of the text; 
+  this also applies to un-hovered favicons, which are of class a */
   font-weight: 500;
   /* Hyperlinks bold */
   text-decoration: none;
   /* Hyperlinks not underlined */
   background-color: transparent
     /* Hyperlinks don't have weird highlighting */
+}
+
+@media (prefers-color-scheme: dark) {
+  a {
+    color: var(--anchor-color-dark);
+  }
 }
 
 @media (hover: hover) {

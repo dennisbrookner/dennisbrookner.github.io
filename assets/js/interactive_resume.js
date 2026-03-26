@@ -7,7 +7,8 @@ const labList = [
     'delfino',
     'loria',
     'merck',
-    'crews'
+    'crews',
+    'gne'
 ]
 
 /**

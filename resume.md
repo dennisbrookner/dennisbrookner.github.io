@@ -18,8 +18,14 @@ B.S. in Molecular Biophysics & Biochemistry \| 2015-2019
   
 ## Experience
 
-<button class='btn hekstra exp'>**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - present  
-Investigation of protein structure and dynamics via electric-field stimulated crystallography (EF-X) and other crystallographic methods</button>
+Click on an experience to see the associated publications and skills
+
+<button class='btn gne exp'>**Genentech**\| Protein Design Engineer (contract) \| 2025 - present
+Developing, implementing, and applying workflows for *de novo* binder design</button>
+
+
+<button class='btn hekstra exp'>**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - 2025  
+Investigation of protein structure and dynamics via integration of structural biology, biochemistry, and cell-based</button>
 
 <button class='btn delfino exp'>**Lab of Prof. José María Delfino**, Universidad de Buenos Aires \| Visiting Researcher \| Summer 2019  
 Probing of protein solvent-accessible surface area via diazarine photochemical labelling while practicing Spanish-language immersion</button>
@@ -53,7 +59,17 @@ Investigation of cellular responses to partial protein unfolding through a varie
   
 ## Skills
 
-##### X-Ray Crystallography
+##### Computational skills  
+  
+ - <span class='skill gne'>*de novo* design of protein binders using RFDiffusion, BindCraft, BoltzGen, ProteinMPNN, AlphaFold</span>
+ - <span class='skill hekstra'>Molecular dynamics simulations using OpenMM, Amber including custom force restraints</span>
+ - <span class='skill hekstra gne'>python and R for data analysis and visualization</span>
+ - <span class='skill hekstra gne'>Collaborative package development and management in python and R</span>
+ - <span class='skill hekstra merck gne'>bash and slurm scripting for high-performance CPU and GPU computing</span>
+ - <span class='skill gne'>Accelerated scripting and development using agentic AI assistance</span>
+ - <span class='skill gne'>Web design in flask, HTML, CSS, Jekyll, JavaScript</span>
+
+##### X-ray crystallography
 
  - <span class='skill hekstra merck loria'> Protein crystallization and screen design using vapor diffusion, lipidic cubic phase methods </span>
  - <span class='skill hekstra merck loria'>DIALS, CCP4, PHENIX, and Coot for data processing and structure determination</span>
@@ -82,12 +98,6 @@ Investigation of cellular responses to partial protein unfolding through a varie
  - <span class='skill crews'>Western blot analysis of protein levels in cell lysate</span>
  - <span class='skill crews'>Confocal microscopy to assess subcellular localization of fluorescent fusion proteins</span>
   
-##### Computational skills  
-  
- - <span class='skill hekstra'>python and R for data analysis and visualization</span>
- - <span class='skill hekstra'>Collaborative package development and management in python and R</span>
- - <span class='skill hekstra merck'>bash and slurm scripting for high-performance CPU and GPU computing</span>
- - <span class='skill'>Web design in HTML, CSS, Jekyll, JavaScript</span>
 
 
 <button class='btn to-top clickable hidden'>Back to experiences <i class="fa fa-level-up"></i></button>
