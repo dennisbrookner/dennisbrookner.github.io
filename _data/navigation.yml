@@ -1,4 +1,6 @@
-- name: About Me
+- name: CV
   link: /
 - name: Resume
   link: /resume.html
+- name: About Me
+  link: /about.html
