@@ -18,6 +18,7 @@ Declare some colors that I can use throughout
   --favicon-hover-color: #808080;
   --hr-color: rgba(0, 0, 0, .1);
   --vr-color: #dee2e6;
+  --vr-color-dark: #25256c;
   --scrollbar-thumb-color: #adbecf;
 }
 
@@ -319,6 +320,12 @@ img.rounded {
 .vr-workaround {
   border-left: 1px solid var(--vr-color);
   height: 95vh
+}
+
+@media (prefers-color-scheme: dark) {
+  .vr-workaround {
+    border-left: 1px solid var(--vr-color-dark);
+  }
 }
 
 .pad-lr-3rem {
