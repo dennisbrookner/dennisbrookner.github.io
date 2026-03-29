@@ -5,7 +5,7 @@ layout: flexcolumns
 
 ## Curriculum vitae
 
-I'm a structural biologist and biochemist with a knack for working at the interface of experimental and computational biology.
+I'm a structural biologist and biochemist with a passion for working at the interface of experimental and computational biology. In the lab, I've used a variety of techniques spanning structural biology, biochemistry, biophysics, and cell biology to characterize the relationship between protein structure, dynamics, and function.
 
 ### Genentech
 
