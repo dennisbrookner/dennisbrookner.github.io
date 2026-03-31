@@ -20,7 +20,7 @@ B.S. in Molecular Biophysics & Biochemistry \| 2015-2019
 
 Click on an experience to see the associated publications and skills
 
-<button class='btn gne exp'>**Genentech**\| Protein Design Engineer (contract) \| 2025 - present
+<button class='btn gne exp'>**Genentech**\| Protein Design Engineer (contract) \| 2025 - present  
 Developing, implementing, and applying workflows for *de novo* binder design</button>
 
 
