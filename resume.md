@@ -20,9 +20,8 @@ B.S. in Molecular Biophysics & Biochemistry \| 2015-2019
 
 Click on an experience to see the associated publications and skills
 
-<button class='btn gne exp'>**Genentech**\| Protein Design Engineer (contract) \| 2025 - present  
+<button class='btn gne exp'>**Genentech** \| Protein Design Engineer (contract) \| 2025 - present  
 Developing, implementing, and applying workflows for *de novo* binder design</button>
-
 
 <button class='btn hekstra exp'>**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - 2025  
 Investigation of protein structure and dynamics via integration of structural biology, biochemistry, and cell-based</button>
@@ -38,8 +37,6 @@ Crystal structure determination of a GPCR in complex with drug-candidate ligands
 
 <button class='btn crews exp'>**Lab of Prof. Craig Crews**, Yale University \| Undergraduate Researcher \| 2016 - 2017  
 Investigation of cellular responses to partial protein unfolding through a variety of methods</button>
-
-<button class='btn back clickable hidden'>Back to static version of site</button>
 
 ---
     
