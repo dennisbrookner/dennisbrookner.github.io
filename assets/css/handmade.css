@@ -143,6 +143,19 @@ a {
   }
 }
 
+.cv-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;             /* Adds a clean space between the folder icon and text */
+  white-space: nowrap;  /* Absolutely prevents the text from dropping below the icon */
+}
+
+p:has(.cv-link, .btn) {
+  display: flex;
+  align-items: center;
+  gap: 16px; /* Adjusts the horizontal spacing between the CV link and the button */
+}
+
 /* Used to keep favicons from getting scrunched up */
 i.favicon-sizing {
   padding-left: .15rem;

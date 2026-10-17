@@ -20,10 +20,10 @@ B.S. in Molecular Biophysics & Biochemistry \| 2015 - 2019
 
 Click on an experience to see the associated publications and skills
 
-<button class='btn gne exp'>**Genentech** \| Protein Design Engineer (contract) \| 2025 - present  
+<a class='cv-link' href="/index#genentech-cv"><i class="fa fa-link"></i> CV</a> <button class='btn gne exp'>**Genentech** \| Protein Design Engineer (contract) \| 2025 - present  
 Developing, implementing, and applying workflows for *de novo* binder design</button>
 
-<button class='btn hekstra exp'>**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - 2025  
+<a class='cv-link' href="/index#hekstra-cv"><i class="fa fa-link"></i> CV</a> <button class='btn hekstra exp'>**Lab of Prof. Doeke Hekstra**, Harvard University \| Graduate Researcher \| 2019 - 2025  
 Investigation of protein structure and dynamics via integration of structural biology, biochemistry, and cell-based</button>
 
 <button class='btn delfino exp'>**Lab of Prof. José María Delfino**, Universidad de Buenos Aires \| Visiting Researcher \| Summer 2019  
