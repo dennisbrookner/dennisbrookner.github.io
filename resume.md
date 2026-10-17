@@ -12,7 +12,7 @@ layout: flexcolumns
 Ph.D. in Biochemistry \| 2019 - 2025
   
 **Yale University** \| New Haven, CT  
-B.S. in Molecular Biophysics & Biochemistry \| 2015-2019  
+B.S. in Molecular Biophysics & Biochemistry \| 2015 - 2019  
   
 ---
   
