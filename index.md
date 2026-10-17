@@ -7,7 +7,7 @@ I'm a **structural biologist and biochemist** with a passion for working at the 
 
 I'm also an experienced **python developer**, including building software for crystallographic data analysis, running customized molecular dynamics simulations, and carrying out cutting-edge *de novo* **protein design**.
 
-### Genentech | Protein Design Engineer | 2025 - present
+### Genentech | Protein Design Engineer | 2025 - present {#genentech-cv}
 In my role as a Protein Design Engineer, I gained deep experience with a variety of cutting-edge software including RFDiffusion, ProteinMPNN, AlphaFold, BoltzGen, BindCraft, and more. 
  - Managed binder design campaigns for several company portfolio targets, and designed binders with experimentally validated on-target binding in live cells
  - Developed a streamlined, user-friendly software wrapper for launching protein design jobs, managing protein design campaigns, and comparing results from different approaches and softwares
@@ -18,7 +18,7 @@ Additionally, I developed agentic tools for assistance with the processing of st
  - Contributed to Phenix to expand MCP capabilities and to facilitate agentic interaction by commercial users with sandboxed LLM access
  - Leveraged my experience as a crystallographer to optimize the role of an agentic "copilot" for maximum usefulness
 
-### Harvard University | Ph.D. Researcher | 2019-2025
+### Harvard University | Ph.D. Researcher | 2019-2025 {#hekstra-cv}
 My graduate work in Prof. Doeke Hekstra's lab had two major components:
 
 ##### Investigated DHFR function, structure, and dynamics
